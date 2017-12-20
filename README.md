@@ -7,5 +7,5 @@ Built using MVVM design pattern, and RXSwift
 
 Includes pagination for efficient loading
 
-![image](Users/DeepakHome/Desktop/screenshot1.png)
+![image](GifApp/screenshot1.png)
 
