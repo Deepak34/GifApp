@@ -12,6 +12,7 @@
 		3D06F3D21FE9B6BB006A4362 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D06F3D01FE9B6BB006A4362 /* LaunchScreen.storyboard */; };
 		3D06F3DD1FE9B6BC006A4362 /* GifAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06F3DC1FE9B6BC006A4362 /* GifAppTests.swift */; };
 		3D06F3E81FE9B6BC006A4362 /* GifAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06F3E71FE9B6BC006A4362 /* GifAppUITests.swift */; };
+		3D0D2D5D1FE9FAEB0009E453 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D0D2D5C1FE9FAEB0009E453 /* screenshot1.png */; };
 		3D6CD4681FE9BD2B00C1CC7A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6CD45F1FE9BD2B00C1CC7A /* Extensions.swift */; };
 		3D6CD4691FE9BD2B00C1CC7A /* FavouritesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6CD4601FE9BD2B00C1CC7A /* FavouritesVC.swift */; };
 		3D6CD46A1FE9BD2B00C1CC7A /* FavouritesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6CD4611FE9BD2B00C1CC7A /* FavouritesViewModel.swift */; };
@@ -63,6 +64,7 @@
 		3D06F3E31FE9B6BC006A4362 /* GifAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GifAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D06F3E71FE9B6BC006A4362 /* GifAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifAppUITests.swift; sourceTree = "<group>"; };
 		3D06F3E91FE9B6BC006A4362 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D0D2D5C1FE9FAEB0009E453 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
 		3D6CD45F1FE9BD2B00C1CC7A /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		3D6CD4601FE9BD2B00C1CC7A /* FavouritesVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavouritesVC.swift; sourceTree = "<group>"; };
 		3D6CD4611FE9BD2B00C1CC7A /* FavouritesViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavouritesViewModel.swift; sourceTree = "<group>"; };
@@ -144,6 +146,7 @@
 				3D06F3CB1FE9B6BB006A4362 /* Main.storyboard */,
 				3D06F3D01FE9B6BB006A4362 /* LaunchScreen.storyboard */,
 				3D06F3D31FE9B6BB006A4362 /* Info.plist */,
+				3D0D2D5B1FE9FAE00009E453 /* Screenshots */,
 			);
 			path = GifApp;
 			sourceTree = "<group>";
@@ -164,6 +167,14 @@
 				3D06F3E91FE9B6BC006A4362 /* Info.plist */,
 			);
 			path = GifAppUITests;
+			sourceTree = "<group>";
+		};
+		3D0D2D5B1FE9FAE00009E453 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				3D0D2D5C1FE9FAEB0009E453 /* screenshot1.png */,
+			);
+			name = Screenshots;
 			sourceTree = "<group>";
 		};
 		3DFFFB671FE9C4740058F63B /* Favourites Tab */ = {
@@ -347,6 +358,7 @@
 				3D06F3CD1FE9B6BB006A4362 /* Main.storyboard in Resources */,
 				3D6CD46D1FE9BD2B00C1CC7A /* GifTableCell.xib in Resources */,
 				3DFFFB6B1FE9C53C0058F63B /* Assets.xcassets in Resources */,
+				3D0D2D5D1FE9FAEB0009E453 /* screenshot1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

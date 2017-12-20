@@ -76,7 +76,7 @@ class FavouritesVC: UICollectionViewController,UICollectionViewDelegateFlowLayou
     
     func setUpNoItemsLabel(){
         noItemsLabel.numberOfLines = 0
-        noItemsLabel.text = "No favourite gifs...\nStart finding some!!"
+        noItemsLabel.text = "No favourite gifs...\nStart finding some!"
         noItemsLabel.font = TextHelper.NoPostsFont()
         noItemsLabel.textColor = TextHelper.globalGreyColor
         noItemsLabel.sizeToFit()
