@@ -1,0 +1,6 @@
+framework module Pods_GifAppTests {
+  umbrella header "Pods-GifAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
