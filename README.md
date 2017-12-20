@@ -10,5 +10,5 @@ Includes pagination for efficient loading
 
 <p float="left">
   <img src="GifApp/screenshot1.png" width="300"/>
-  <img src="GifApp/screenshot2.png" width="300"/> 
+  <img src="GifApp/screenshot2.png" width="300" hspace="30/> 
 </p>
