@@ -7,7 +7,8 @@ Built using MVVM design pattern, and RXSwift
 
 Includes pagination for efficient loading
 
-![image](GifApp/screenshot1.png)
 
-![image](GifApp/screenshot2.png)
-
+<p float="left">
+  <img src="GifApp/screenshot1.png" width="300"/>
+  <img src="GifApp/screenshot2.png" width="300"/> 
+</p>
