@@ -9,3 +9,5 @@ Includes pagination for efficient loading
 
 ![image](GifApp/screenshot1.png)
 
+![image](GifApp/screenshot2.png)
+
