@@ -9,19 +9,13 @@ A simple iOS app for viewing GIFs.
 
 ## Features
 
-View trending gifs. Search by keyward, and favourite specific gifs as well. Includes pagination for efficient loading. 
+View trending gifs. Search by name. Favourite specific gifs. 
+
+Includes pagination for efficient loading. 
 
 ## Architecture
 
-Built using MVVM design pattern, and RXSwift
-
-## Motivation
-
-Created for a job interview
-
-## Installation
-
-Provide code examples and explanations of how to get the project.
+Uses MVVM design pattern and RXSwift
 
 ## API Reference
 
